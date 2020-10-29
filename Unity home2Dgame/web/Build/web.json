@@ -1,0 +1,17 @@
+{
+"companyName": "wie",
+"productName": "wie 失落戰憶失落戰憶",
+"productVersion": "0.1",
+"dataUrl": "web.data.unityweb",
+"wasmCodeUrl": "web.wasm.code.unityweb",
+"wasmFrameworkUrl": "web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
